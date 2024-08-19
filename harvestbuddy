@@ -1,0 +1,35 @@
+{
+	"name": "Harvest Buddy",
+	"symbol": "HARVEST",
+	"description": "Let's farm together!",
+	"seller_fee_basis_points": 0,
+	"image": "https://raw.githubusercontent.com/homeyong/water_plant/feb6dd58ce7e475fb03ac821127914eac5cfdfbf/src/assets/img/favicon.jpg",
+	"animation_url": null,
+	"attributes": [
+		{
+			"trait_type": "Harvest",
+			"value": "100%"
+		},
+        {
+			"trait_type": "Farm",
+			"value": "Green!!"
+		}
+	],
+	"external_url": "https://www.solana.com",
+	"properties": {
+		"category": "image",
+		"creators": [
+			{
+				"address": "SHrLK32T45rEwJaBnksw7yoQtL1teFtZkwyeWABRGoP",
+				"verified": true,
+				"share": 100
+			}
+		],
+		"files": [
+			{
+				"type": "image/jpg",
+				"uri": "https://raw.githubusercontent.com/homeyong/water_plant/feb6dd58ce7e475fb03ac821127914eac5cfdfbf/src/assets/img/favicon.jpg"
+			}
+		]
+	}
+}
