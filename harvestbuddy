@@ -13,6 +13,10 @@
         {
 			"trait_type": "Farm",
 			"value": "Green!!"
+		},
+		{
+			"trait_type": "Game Data",
+			"value": "http://harvestbuddy.site:5000/get-address"
 		}
 	],
 	"external_url": "https://www.solana.com",
@@ -29,11 +33,7 @@
 			{
 				"type": "image/jpg",
 				"uri": "https://raw.githubusercontent.com/homeyong/water_plant/feb6dd58ce7e475fb03ac821127914eac5cfdfbf/src/assets/img/favicon.jpg"
-			},
-            {
-                "type": "application/json",
-                "uri": "http://harvestbuddy.site:5000/get-address"
-            }
+			}
 		]
 	}
 }
