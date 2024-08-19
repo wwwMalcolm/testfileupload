@@ -7,14 +7,6 @@
 	"animation_url": null,
 	"attributes": [
 		{
-			"trait_type": "Harvest",
-			"value": "100%"
-		},
-        {
-			"trait_type": "Farm",
-			"value": "Green!!"
-		},
-		{
 			"trait_type": "Game Data",
 			"value": "http://harvestbuddy.site:5000/get-address"
 		}
