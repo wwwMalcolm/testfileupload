@@ -8,7 +8,7 @@
 	"attributes": [
 		{
 			"trait_type": "Game Data",
-			"value": "http://harvestbuddy.site:5000/get-address"
+			"value": "https://harvestbuddy.site:5000/get-address"
 		}
 	],
 	"external_url": "https://www.solana.com",
